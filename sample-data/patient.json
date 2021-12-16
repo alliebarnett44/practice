@@ -1,0 +1,20 @@
+[
+    {
+        "patient_name": "Neal",
+        "sex": "M",
+        "on_meds": "true",
+        "allergies": "false",
+        "favorite_color": "blue",
+        "favorite_food": "pussy",
+        "age": 26
+    },
+    {
+        "patient_name": "Allie",
+        "sex": "F",
+        "on_meds": "true",
+        "allergies": "true",
+        "favorite_color": "blue",
+        "favorite_food": "dick",
+        "age": 23
+    }
+]
